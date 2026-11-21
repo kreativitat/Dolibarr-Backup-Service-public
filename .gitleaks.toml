@@ -1,0 +1,4 @@
+title = "Public source secret scanning"
+
+[extend]
+useDefault = true
